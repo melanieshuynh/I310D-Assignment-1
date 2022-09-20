@@ -2,7 +2,7 @@
 Repository for I310D Assignment 1: Data Collection and Curation.
 
 # Project Goal
-The goal of this project was to collect data using the Twitter data and create visualizations utilizing the information gathered. As it pertains to my project, with the announcement of the new Zelda title on 9/13/22, I was curious about the fluctuation and trends in metrics (likes, retweets, replies, quote retweets) over the course of 10 days, from 9/08/22 to 9/18/22.
+The goal of this project was to collect data using the Twitter API and create visualizations utilizing the information gathered. As it pertains to my project, with the announcement of the new Zelda title on 9/13/22, I was curious about the fluctuation and trends in metrics (likes, retweets, replies, quote retweets) over the course of 10 days, from 9/08/22 to 9/18/22.
 
 # API Documentation:
 https://developer.twitter.com/en/docs/twitter-api 
